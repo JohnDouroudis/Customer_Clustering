@@ -2,4 +2,4 @@
 * Containts
   - Mall_Customers.csv : dataset
   - Segmentation&Clustering.ipynb : applycation for clustering
-  - Customer_Segmentation_Report : report
+  - Customer_Segmentation_Report.pdf : report
